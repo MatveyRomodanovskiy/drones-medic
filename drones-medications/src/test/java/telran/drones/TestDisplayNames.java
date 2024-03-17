@@ -1,6 +1,5 @@
 package telran.drones;
 
-
 public interface TestDisplayNames {
 String REGISTER_DRONE_NORMAL = "Registering drone normal flow";
 String REGISTER_DRONE_VALIDATION_VIOLATION = "Drone JSON with  wrong fields";
